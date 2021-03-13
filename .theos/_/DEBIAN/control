@@ -1,0 +1,10 @@
+Package: com.halliehax.windowexample
+Name: WindowExample
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hallie
+Author: Hallie
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
+Version: 0.0.1-10+debug
+Installed-Size: 204
